@@ -15,3 +15,5 @@ npm install axios
 npm install nodemon (if you don't have it already)
 
 To run: nodemon index.js
+
+just  run the following commands in your terminal and hopefully you won't have any errors.

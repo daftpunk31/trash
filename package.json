@@ -1,5 +1,5 @@
 {
-  "name": "node_default_template",
+  "name": "random_dir_project",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
